@@ -416,8 +416,6 @@ body {
 	}
 }
 
-
-
 /* IPAD VIEW (2x2 Grid for Cards) */
 @media (min-width: 1024px) and (max-width: 1366px) {
     .cards-container {
